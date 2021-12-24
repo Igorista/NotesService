@@ -1,14 +1,15 @@
-Домашнее задание к занятию «Generics и коллекции»
+# Домашнее задание к занятию «Generics и коллекции»
 
-NoteService
 
-опущены следующие поля:
+### NoteService
 
-replyTo
-guid
-privacy_view
-privacy_comment
-offset,
-count,
-sort
-need_wiki
+#### *Опущены следующие поля:*
+
+- replyTo
+- guid
+- privacy_view
+- privacy_comment
+- offset,
+- count,
+- sort
+- need_wiki
